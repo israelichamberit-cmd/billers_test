@@ -1,0 +1,5 @@
+{
+  "name": "Billers Reconciliation App",
+  "description": "A match-only reconciliation application for comparing bank transactions to proforma invoices.",
+  "requestFramePermissions": []
+}
